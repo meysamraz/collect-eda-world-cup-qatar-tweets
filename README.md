@@ -2,8 +2,8 @@
 In this project, I analyzed the data collected from tweets related to the World Cup hashtag using the Twitter API. The purpose of this analysis is to get to know the tweet pattern and find the trends of the Qatar World Cup.
 
 ## Project Overview 
-<img src = "src/plot1.png" width ="230" /> <img src = "src/plot2.png" width ="230" /> <img src = "src/plot3.png" width ="230" />
-<img src = "src/plot4.png" width ="230" /> <img src = "src/plot5.png" width ="230" /> <img src = "src/plot6.png" width ="230" />
+<img src = "src/plot1.png" width ="260" /> <img src = "src/plot2.png" width ="260" /> <img src = "src/plot3.png" width ="260" />
+<img src = "src/plot4.png" width ="260" /> <img src = "src/plot5.png" width ="260" /> <img src = "src/plot6.png" width ="260" />
 
 - ### Collect data from Twitter
 - ### Understanding the data
@@ -22,3 +22,14 @@ In this project, I analyzed the data collected from tweets related to the World 
     - What places did they tweet from the most ?
     - Most used source for tweeting ?
     - What was the maximum number of followers they could attract during the World Cup?
+
+
+##  Libraries used in the project
+
+- [pandas](https://pandas.pydata.org/)
+- [numpy](https://numpy.org/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [termcolor](https://pypi.org/project/termcolor/)
+- [wordcloud](https://pypi.org/project/wordcloud/)
+- [tweepy](https://www.tweepy.org/)
