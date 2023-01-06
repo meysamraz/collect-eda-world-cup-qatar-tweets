@@ -2,8 +2,8 @@
 In this project, I analyzed the data collected from tweets related to the World Cup hashtag using the Twitter API. The purpose of this analysis is to get to know the tweet pattern and find the trends of the Qatar World Cup.
 
 ## Project Overview 
-<img src = "src/plt1.png" width ="230" /> <img src = "src/plt2.png" width ="230" /> <img src = "src/plt3.png" width ="230" />
-<img src = "src/plt4.png" width ="230" /> <img src = "src/plt5.png" width ="230" /> <img src = "src/plt6.png" width ="230" />
+<img src = "src/plot1.png" width ="230" /> <img src = "src/plot2.png" width ="230" /> <img src = "src/plot3.png" width ="230" />
+<img src = "src/plot4.png" width ="230" /> <img src = "src/plot5.png" width ="230" /> <img src = "src/plot6.png" width ="230" />
 
 - ### Collect data from Twitter
 - ### Understanding the data
